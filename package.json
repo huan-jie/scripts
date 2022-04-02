@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "hj-hym",
   "version": "1.0.0",
   "description": "{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}",
-  "main": "AlipayManor.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": ""
   },
   "keywords": [
-    "京东薅羊毛工具, 京东水果、宠物、种豆等等"
+    "各平台薅羊毛工具"
   ],
   "author": "",
   "license": "ISC",
